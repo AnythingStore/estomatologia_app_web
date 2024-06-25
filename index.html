@@ -14,13 +14,10 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="./">
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="a app for estomatology and the implementacion of ATM">
-
-
   <!-- My Description  -->
   <meta name="country" content="Cuba">
   <meta name="description" content="a app for estomatology and the implementacion of ATM">
@@ -36,8 +33,26 @@
 
   <title>aplicaciones de las ATM</title>
   <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" type="text/css" href="./style.css">
+
 </head>
 <body>
+  <div class="preloader">
+  <div class="preloader-container">
+    <img width="80" class="preloader-img" src="./icon.png" alt="">
+    <div id="animation-container">
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+      <img width="80" src="./icon.png" class="animation-image" alt="" />
+    </div>
+    <div class="loader"></div>
+  </div>
+</div>
+
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
