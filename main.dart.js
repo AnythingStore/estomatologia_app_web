@@ -40000,7 +40000,7 @@ A.X4.prototype={
 L(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=t.J
 A.P(a,B.i,d).toString
 s=t.f
-r=A.Ah(A.a_(u.k,e,"title_app",A.a([],s),e)+" 1.6.0-Beta",A.I(a).p2.r,B.b9)
+r=A.Ah(A.a_(u.k,e,"title_app",A.a([],s),e)+" 1.6.1-Beta",A.I(a).p2.r,B.b9)
 A.P(a,B.i,d).toString
 q=A.Ah(A.a_("Research team:",e,"header_1",A.a([],s),e),B.j0,e)
 p=f.OT("Lorena L\xe1zara Berit\xe1n Gonz\xe1lezl   ","https://orcid.org/0000-0002-6387-3349")
@@ -40019,7 +40019,7 @@ h=f.Ks("https://www.linkedin.com/in/elvis-p%C3%A9rez-p%C3%A9rez-6a36902a0/")
 g=A.bL(e,e,B.cS,"\n")
 A.P(a,B.i,d).toString
 l=A.aiN(A.bL(A.a([k,j,i,h,g,A.bL(e,e,B.cS,A.a_(u.F,e,"developers_content",A.a([],s),e))],t.VO),e,B.eg,l+" \n"))
-g=A.Ah("1.6.0-Beta Beta",B.j0,e)
+g=A.Ah("1.6.1-Beta Beta",B.j0,e)
 A.P(a,B.i,d).toString
 return new A.bX(B.d1,new A.PA(A.cL(A.a([r,B.Mf,B.b8,q,B.b8,p,o,n,B.b8,m,B.b8,l,B.b8,B.KL,B.b8,g,B.b8,A.aiN(A.bL(e,e,B.cS,A.a_(u.ap,e,"information_app_content",A.a([],s),e)))],t.p),B.aW,B.K,B.M),e),e)},
 Ks(a){var s=A.akq(null,null)
